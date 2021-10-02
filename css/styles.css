@@ -1,12 +1,12 @@
 #wholeContainer {
     border: solid;
-    border-color: chocolate;
+    border-color: aqua;
     border-radius: 10px;
     border-width: 2px;
 }
 
 #leftContainer {
-    background-color: aqua;
+    background-color:indianred;
     border: none;
     border-color: aqua;
     border-top-left-radius: 10px;
@@ -14,7 +14,7 @@
 }
 
 #rightContainer {
-    background-color:cadetblue;
+    background-color:khaki;
     border: none;
     border-color: brown;
     border-top-right-radius: 10px;
@@ -25,7 +25,17 @@ p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+#nameBox {
+    clear:both;
+    margin: 5px;
+}
+
+#descBox {
+    width: 500px;
+}
+
 img {
+    margin: 5px;
     height: 250px;
     float:left;
 }
