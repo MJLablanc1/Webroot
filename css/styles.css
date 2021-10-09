@@ -34,6 +34,21 @@ p {
     width: 500px;
 }
 
+#webBox{
+    background-color: burlywood;
+    border: solid;
+    border-color: coral;
+    border-radius: 10px;
+}
+
+#pWeb{
+    width: 50em;
+}
+
+#olWeb{
+    margin-left: 50px;
+}
+
 img {
     margin: 5px;
     height: 250px;
